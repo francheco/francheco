@@ -1,6 +1,6 @@
 ## Hi there, I am Franklin; welcome to my GitHub repository 👋
 
-## I am passionate about business development. I collaborate with multidisciplinary teams to support diverse industries in Latin America
+## I am deeply dedicated to driving business growth and inspiring diverse teams to achieve peak performance. 
 
 ## - About me 👨🏽‍💻
     
@@ -19,25 +19,3 @@
  
 
 
-
-
-
-
-
-
-
-##<!--
-**francheco/francheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-###
