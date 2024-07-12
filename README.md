@@ -1,6 +1,6 @@
 ## Hi there, I am Franklin; welcome to my GitHub repository 👋
 
-## I am deeply dedicated to driving business growth and inspiring diverse teams to achieve peak performance. 
+## I am deeply dedicated to driving business growth and inspiring diverse teams to reach their highest potential! 
 
 ## - About me 👨🏽‍💻
     
